@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AskME</string>
+    <string name="rate_dailog_title">Rate this app</string>
+    <string name="rate_dialog_message">If you enjoy using this app ,would you mind taking a moment to rate it? It wont take more than a minute. Thanks for your support!</string>
+    <string name="rate_dialog_ok">RATE IT NOW</string>
+    <string name="rate_dialog_cancel">No,THANKS</string>
+    <string name="rate_dialog_no">REMIND ME LATER</string>
+    <string name="about_us">About Us</string>
+    <string name="textview">TextView</string>
+    <string name="my_app_logo">My app LOGO</string>
+</resources>
